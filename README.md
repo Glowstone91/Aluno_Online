@@ -51,16 +51,16 @@ Projeto desenvolvido com o objetivo de praticar conceitos de:
 ## 📷 Demonstração
 
 ### 🔐 Tela de Login
-![Login Aluno](images/login_aluno.png)
-![Login Professor](images/login_professor.png)
+![Login Aluno](prints_sistema/login_aluno.png)
+![Login Professor](prints_sistema/login_professor.png)
 
 ### 👨‍🎓 Área do Aluno
-![Boletim do Aluno](images/dashboard_aluno_boletim.png)
-![Matérias do Aluno](images/dashboard_aluno_materia.png)
+![Boletim do Aluno](prints_sistema/dashboard_aluno_boletim.png)
+![Matérias do Aluno](prints_sistema/dashboard_aluno_materia.png)
 
 ### 👨‍🏫 Área do Professor
-![Dashboard Professor](images/dashboard_professor1.png)
-![Gestão de Alunos](images/dashboard_professor_aluno.png)
+![Dashboard Professor](prints_sistema/dashboard_professor1.png)
+![Gestão de Alunos](prints_sistema/dashboard_professor_aluno.png)
 
 ---
 
